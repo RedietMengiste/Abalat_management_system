@@ -1,0 +1,18 @@
+.v-data-footer{
+
+    background-color: #EAF0F5;
+}
+.v-data-table-header{
+    background-color: #EAF0F5;
+}
+tbody tr:nth-of-type(even) {
+    background-color:#F2F6FC;
+  }
+.v-data-table>.v-data-table__wrapper>table>tbody>tr>td{
+   
+  font-size:17px;
+}
+.v-data-table>.v-data-table__wrapper>table>thead>tr>th{
+   
+    font-size:18px;
+  }
